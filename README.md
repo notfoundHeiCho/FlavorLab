@@ -1,36 +1,68 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<div align="center">
+  <img src="https://storage.googleapis.com/openscreenshot/v%2Fz%2FC/jHArj8Czv.png" alt="Logo" width="256" height="256">
+</div>
 
-## Getting Started
 
-First, run the development server:
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# FlavorLab
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 📝 Description:
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+We investigate the art and science of culinary inventiveness here at FlavorLab. The purpose of our website is to make it enjoyable for users to explore new tastes, recipes, and culinary ideas. FlavorLab offers something for everyone, regardless of experience level in the kitchen.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## ✅ Features: 
 
-## Learn More
+- *Recipe Collections*: 
+  Explore a wide variety of recipes curated by our team of experts, ranging from classic dishes to innovative culinary creations.
 
-To learn more about Next.js, take a look at the following resources:
+- *Ingreadient Search*: 
+  Search for recipes based on specific ingredients you have on hand, making meal planning easier and more convenient.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- *User Profiles*: 
+  Create your own profile to save your favorite recipes, customize your preferences, and share your culinary adventures with the community.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- *Community Interaction*:
+  Engage with other food enthusiasts through comments, ratings, and recipe sharing, fostering a vibrant and supportive culinary community.
 
-## Deploy on Vercel
+## 🛠️ Technologies Used:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+- *Frontend*: HTML, CSS, JavaScript
+- *Backend*: Python, Node.js
+- *Database*: MySQL
+- *Authentication*: JSON Web Tokens (JWT), API
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 🔽 Installation:
+
+1. Clone this repository to your local machine.
+
+```git clone https://github.com/notfoundHeiCho/FlavorLab.git```
+
+2. Navigate to the project directory.
+
+```cd FlavorLab```
+
+## 🤝 Contributing:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and ensure that the codebase remains clean and well-documented.
+4. Test your changes thoroughly.
+5. Submit a pull request with a clear description of your changes and the problem they address.
+
+## ©️ License:
+
+This project is licensed under the MIT License.
+
+## 📫 Contact:
+
+### - *Reach Salah Eddine Ait Si Ahmad*:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salaheddine.aitsiahmad@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salah-eddine-ait-si-ahmad/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1149717993396375605)
+
+### - *Reach Hajar Znaidi*:
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hajarznaidi04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hajar-znaidi-b2364a189/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1198465550658060449)

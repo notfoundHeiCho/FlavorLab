@@ -17,8 +17,8 @@ export default function Home() {
           >
             By{" "}
             <Image
-              src="/vercel.svg"
-              alt="Vercel Logo"
+              src="FlaborLab.jpg"
+              alt="FlaborLab Logo"
               className="dark:invert"
               width={100}
               height={24}
